@@ -1,0 +1,42 @@
+{
+  "eeg_files": [
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b01_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b20_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b21_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b23_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b24_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b27_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b31_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b33_preproc_raw.fif",
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b36_preproc_raw.fif"
+  ],
+  "yawn_times": {
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b01_preproc_raw.fif": [
+      55.55859375
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b20_preproc_raw.fif": [
+      41.8515625
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b21_preproc_raw.fif": [
+      63.0234375
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b23_preproc_raw.fif": [
+      126.42578125
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b24_preproc_raw.fif": [
+      39.27734375
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b27_preproc_raw.fif": [
+      114.046875
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b31_preproc_raw.fif": [
+      94.13671875
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b33_preproc_raw.fif": [
+      83.78515625
+    ],
+    "D:\\EEG\\处理后的脑电数据\\Propofol_b36_preproc_raw.fif": [
+      53.3125
+    ]
+  }
+}
